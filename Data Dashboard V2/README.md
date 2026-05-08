@@ -1,5 +1,5 @@
 # Data Jobs Dashboard V2 Power Bi
-![Data Jobs Dashboard V2](/images/Project2_Dashboard.Gif)
+![Data Jobs Dashboard V2](/images/Project2_Dashboard.gif)
 
 ## Introduction
 
